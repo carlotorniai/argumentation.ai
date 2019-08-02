@@ -1,8 +1,7 @@
 ---
-title: About Argumentation.ai
+title: 			Coming soon
 feature_text: |
   ## Argumentation.ai
-  Argumentation.ai Work in Progress
 feature_image: "/assets/pics/gg.png"
 excerpt: "Argumentation.ai - Coming soon"
 ---
