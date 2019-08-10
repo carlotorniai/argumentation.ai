@@ -1,7 +1,7 @@
 ---
 title: 
-feature_text: |
+#feature_text:   Argumentation.ai | Coming soon
 feature_image: "/assets/pics/aai_small.png"
-excerpt: " "
+excerpt: "Argumetnation.ai Coming soon"
 ---
 
