@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-feature_image: "/assets/pics/aai_new.png"
+feature_image: "/assets/pics/aai_small.png"
 excerpt: " "
 ---
 
